@@ -9,4 +9,4 @@ export const SIDENAv_ITEMS: SideNavItem [] = [
         icon: <Icon icon="lucide:home" width="24" height="24" />,
     },
 ];
-//test to make sure github is  working
+//test to make sure github is working
